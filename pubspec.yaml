@@ -1,0 +1,12 @@
+name: composition_calc
+description: A dart program to find summations of compositions
+version: 1.0.0
+
+environment:
+  sdk: '>=2.16.1 <3.0.0'
+
+dependencies:
+  trotter: ^2.0.0-dev.1
+
+dev_dependencies:
+  lints: ^1.0.0
